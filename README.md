@@ -58,6 +58,5 @@ I am a **data professional** with hands-on experience in **Big Data, Data Scienc
 ## 📢 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavan-u-managoli)  
-📧 **Email:** [pavanmanagoli06@gmail.com](mailto:pavanmanagoli06@gmail.com)  
-
+📧 [![Email](https://upload.wikimedia.org/wikipedia/commons/6/6b/Email_icon.svg)](mailto:pavanmanagoli06@gmail.com)  
 🚀 **Let's collaborate on data-driven innovations!**  

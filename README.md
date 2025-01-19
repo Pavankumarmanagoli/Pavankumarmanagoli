@@ -13,18 +13,18 @@ I am a **data professional** with hands-on experience in **Big Data, Data Scienc
 ---
 
 ## 🔧 Tech Stack & Expertise  
+📌 **Programming Languages** – *Python | SQL | R*  
 
-### 📌 **Programming Languages**  - Python | SQL | R  
+📌 **Technologies & Tools** – *Machine Learning (ML), NLP, Neural Networks, Generative AI, Data Mining, Predictive Analytics, ETL, Data Pipelines, Big Data, Hadoop, Spark, Data Scraping*  
 
-### 📌 **Technologies & Tools**  - Machine Learning (ML), NLP, Neural Networks, Generative AI ,Data Mining, Predictive Analytics, ETL, Data Pipelines , Big Data, Hadoop, Spark, Data Scraping  
+📌 **Cloud Platforms** – *Google Cloud Platform (GCP), Microsoft Azure*  
 
-### 📌 **Cloud Platforms** - Google Cloud Platform (GCP) , Microsoft Azure  
+📌 **Visualization Tools** – *Tableau, Power BI, SAS Visual Analytics, Excel*  
 
-### 📌 **Visualization Tools** - Tableau, Power BI, SAS Visual Analytics, Excel  
+📌 **Libraries & Frameworks** – *Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, Spacy*  
 
-### 📌 **Libraries & Frameworks** - Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, Spacy  
+📌 **Other Tools** – *Git, Docker, Google Cloud SDK, API Integration, MS Office*  
 
-### 📌 **Other Tools** - Git, Docker, Google Cloud SDK, API Integration, MS Office  
 
 ---
 

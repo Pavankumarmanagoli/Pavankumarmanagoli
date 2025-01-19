@@ -39,7 +39,7 @@
 ---
 
 ## 📢 Let's Connect!
-- **LinkedIn:** [Pavankumar Umesh Managoli](https://www.linkedin.com/in/pavankumar-umesh-managoli)  
+- **LinkedIn:** [Pavankumar Umesh Managoli](https://www.linkedin.com/in/pavan-u-managoli/)  
 - **GitHub:** [Pavankumarmanagoli](https://github.com/Pavankumarmanagoli)  
 - **Email:** [pavanmanagoli06@gmail.com](mailto:pavanmanagoli06@gmail.com)  
 

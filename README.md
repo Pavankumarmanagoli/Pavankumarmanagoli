@@ -40,7 +40,7 @@
 
 ## 📢 Let's Connect!
 - **LinkedIn:** [Pavankumar Umesh Managoli](https://www.linkedin.com/in/pavan-u-managoli/)  
-- **GitHub:** [Pavankumarmanagoli](https://github.com/Pavankumarmanagoli)  
+- **GitHub Projects:** [Pavankumarmanagoli]([https://github.com/Pavankumarmanagoli](https://github.com/Pavankumarmanagoli/Projects/tree/main))  
 - **Email:** [pavanmanagoli06@gmail.com](mailto:pavanmanagoli06@gmail.com)  
 
 🚀 **Let's collaborate on data-driven innovations!**

@@ -15,7 +15,7 @@
 ---
 
 ## 💼 Professional Experience:
-### **HCL Technologies – Junior Data Analyst** *(09/2022 – 08/2023, Noida, India)*
+### **HCL Technologies – Data Analyst** *(10/2022 – 09/2023, Noida, India)*
 - 🚀 **Optimized IT infrastructure**, reducing system downtime by **15%**  
 - 🔍 **Enhanced system performance** by **12%** through proactive monitoring  
 - 📊 **Developed dashboards & reports**, improving decision-making efficiency by **20%**  

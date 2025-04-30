@@ -10,7 +10,8 @@
 - **Visualization Tools:** Tableau, Power BI, SAS Visual Analytics, Excel  
 - **Libraries & Frameworks:** Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, Spacy  
 - **Other Tools:** Git, Docker, Google Cloud SDK, API Integration, MS Office
-
+---
+- **GitHub Projects:** [Pavankumarmanagoli](https://github.com/Pavankumarmanagoli/Projects/tree/main)  
 ---
 
 ## 💼 Professional Experience:

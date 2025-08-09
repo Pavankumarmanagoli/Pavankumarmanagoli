@@ -15,13 +15,17 @@
 ---
 
 ## 💼 Professional Experience:
+
+### **iiterate Technologies GmbH – AI Development Intern** *(04/2025 – Present, Adenau, Germany)*
+🤖 Built and deployed a **RAG chatbot** with Streamlit, integrating structured & unstructured data  
+🧠 Developed **AI agents** and fine-tuned **LLMs** (LLaMA)  
+🚀 Working on **Generative AI technologies** including **LLMs, RAG, and AI agents** (LangChain, Hugging Face, FAISS, FastAPI)
+
 ### **HCL Technologies – Data Analyst** *(10/2022 – 09/2023, Noida, India)*
-- 🚀 **Optimized IT infrastructure**, reducing system downtime by **15%**  
-- 🔍 **Enhanced system performance** by **12%** through proactive monitoring  
-- 📊 **Developed dashboards & reports**, improving decision-making efficiency by **20%**  
-
+🚀 **Optimized IT infrastructure**, reducing system downtime by **15%**  
+🔍 **Enhanced system performance** by **12%** through proactive monitoring  
+📊 **Developed dashboards & reports**, improving decision-making efficiency by **20%**
 ---
-
 ## 🎓 Education:
 - **Master of Science** – *Applied Data Science & Analytics, SRH Hochschule Heidelberg* *(2023 – Present)*
 - **Bachelor of Engineering** – *Electronics & Communication, MVJ College of Engineering* *(2018 – 2022)*

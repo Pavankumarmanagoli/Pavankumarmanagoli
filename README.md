@@ -42,7 +42,7 @@
 - Building LLM Applications with Prompt Engineering – NVIDIA  
 - The IBM Data Analyst Professional Certificate – IBM  
 - SAS Certified Specialist: Visual Business Analytics  
-- Microsoft Azure Data Engineer Associate  
+- Microsoft Azure Data Engineer Associate -Microsoft 
 - Fundamentals of Deep Learning – NVIDIA  
 - Generative AI Fundamentals – Databricks  
 - Data Analytics & Visualization – Accenture  

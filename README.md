@@ -37,6 +37,10 @@
 ---
 
 ## 📜 Certifications
+- Getting Started with Professional Scrum – LinkedIn Learning  
+- Agile Foundations – LinkedIn Learning  
+- Building LLM Applications with Prompt Engineering – NVIDIA  
+- The IBM Data Analyst Professional Certificate – IBM  
 - SAS Certified Specialist: Visual Business Analytics  
 - Microsoft Azure Data Engineer Associate  
 - Fundamentals of Deep Learning – NVIDIA  

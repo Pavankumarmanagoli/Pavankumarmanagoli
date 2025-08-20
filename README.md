@@ -12,7 +12,7 @@
 - **Libraries & Frameworks:** Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, spaCy  
 - **Other Tools:** Git, Docker, Google Cloud SDK, API Integration, MS Office
 
-- **GitHub Projects:** [Pavankumarmanagoli](https://github.com/Pavankumarmanagoli/Projects/tree/main)
+
 
 ---
 
@@ -60,7 +60,6 @@
 
 ## 📢 Let’s Connect!
 - **LinkedIn:** [Pavankumar Umesh Managoli](https://www.linkedin.com/in/pavan-u-managoli/)  
-- **GitHub Projects:** [Pavankumarmanagoli](https://github.com/Pavankumarmanagoli/Projects/tree/main)  
 - **Email:** [pavanmanagoli06@gmail.com](mailto:pavanmanagoli06@gmail.com)
 
 ---

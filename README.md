@@ -7,24 +7,14 @@ With a strong passion for **AI, Big Data, and Data Science**, I focus on solving
 
 ## 🛠️ Skill Set  
 
-**Programming Languages**  
-🐍 Python | 🗃️ SQL | 📊 R  
+## 📊 Skill Set
 
-**Technologies & Tools**  
-🤖 Machine Learning (ML), NLP, Neural Networks, Generative AI, Computer Vision  
-📈 Data Mining, Predictive Analytics, ETL, Big Data (Hadoop, Spark), Data Scraping  
-
-**Cloud Platforms**  
-☁️ Google Cloud Platform (GCP) | ☁️ Microsoft Azure  
-
-**Visualization Tools**  
-📊 Tableau | 📊 Power BI | 📊 SAS Visual Analytics | 📊 Excel  
-
-**Libraries & Frameworks**  
-🧩 Pandas | ⚡ Scikit-learn | 🔥 TensorFlow | 🔥 PyTorch | 🧠 NLTK | 🧠 spaCy  
-
-**Other Tools**  
-🐙 Git | 🐳 Docker | ☁️ Google Cloud SDK | 🔗 API Integration | 🖥️ MS Office  
+- **Programming Languages:** Python, SQL, R  
+- **Technologies & Tools:** Machine Learning (ML), NLP, Neural Networks, Generative AI, Computer Vision, Data Mining, Predictive Analytics, ETL, Big Data (Hadoop, Spark), Data Scraping  
+- **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure  
+- **Visualization Tools:** Tableau, Power BI, SAS Visual Analytics, Excel  
+- **Libraries & Frameworks:** Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, spaCy  
+- **Other Tools:** Git, Docker, Google Cloud SDK, API Integration, MS Office  
 
 ---
 

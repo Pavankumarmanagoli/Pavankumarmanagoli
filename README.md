@@ -5,7 +5,7 @@ With a strong passion for **AI, Big Data, and Data Science**, I focus on solving
 
 ---
 
-## 🛠️ Skill Set  
+
 
 ## 📊 Skill Set
 

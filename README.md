@@ -22,20 +22,18 @@ With a strong passion for **AI, Big Data, and Data Science**, I focus on solving
 
 **🚀 iiterate Technologies GmbH – AI Development Intern**  
 *(04/2025 – Present, Adenau, Germany)*  
-- Built and deployed a **RAG chatbot with Streamlit**, integrating structured & unstructured data  
-- Developed **AI agents** and fine-tuned **LLMs (LLaMA)**  
-- Working with **Generative AI technologies** including LLMs, RAG, and AI agents (LangChain, Hugging Face, FAISS, FastAPI)  
 
 **📊 Case Study – Anomaly Detection in Plastic Film Production**  
 *Renolit, Worms, Germany (04/2024 – 09/2024)*  
-- **Objective:** Built ML system to analyze real-time production data, detect anomalies, and recommend control parameter adjustments  
-- **Outcome:** Enabled early detection of quality issues and process optimization, improving efficiency & reducing defects  
 
 **💻 HCL Technologies – Data Analyst**  
-*(10/2022 – 09/2023, Noida, India)*  
-- Optimized IT infrastructure, reducing downtime by **15%**  
-- Improved system performance by **12%** with proactive monitoring  
-- Built dashboards & reports, enhancing decision-making efficiency by **20%**  
+*(01/2023 – 09/2023, Noida, India)*  
+
+**💻 Grayradiant Data Services – Data Analyst** 
+*(12/2021 – 01/2023, Bengaluru, India)*  
+
+
+
 
 ---
 

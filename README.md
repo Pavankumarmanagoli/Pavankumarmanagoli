@@ -29,7 +29,7 @@ With a strong passion for **AI, Big Data, and Data Science**, I focus on solving
 **💻 HCL Technologies – Data Analyst**  
 *(01/2023 – 09/2023, Noida, India)*  
 
-**💻 Grayradiant Data Services – Data Analyst** 
+**💻 Grayradiant Data Services – Data Analyst**
 *(12/2021 – 01/2023, Bengaluru, India)*  
 
 

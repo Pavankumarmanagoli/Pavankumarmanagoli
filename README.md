@@ -32,6 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>
 <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" title="MLflow" width="70"/>
+  ![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange?style=flat&logo=mlflow)
 </p>
 
 ##  Generative AI

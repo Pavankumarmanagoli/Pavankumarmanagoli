@@ -1,3 +1,19 @@
+# Pavankumar Umesh Managoli
+
+`Data & AI Enthusiast (Data Engineering | Data Analytics | Machine Learning | Generative AI)`
+
+---
+
+I am a data professional with over 3 years of experience across data analytics, data engineering, and AI-driven solutions. As a Master’s graduate in Applied Data Science & Analytics, I specialize in transforming raw operational data into scalable systems that enable insight-driven decision-making and measurable business impact.
+
+My journey began in analytics and reporting, where I developed dashboards and automated workflows to improve operational visibility. Over time, I expanded into data engineering and applied AI, focusing on building scalable ETL pipelines, designing reproducible machine learning workflows, and developing intelligent systems such as Retrieval-Augmented Generation (RAG) architectures. I have worked across the full data lifecycle — from ingestion and transformation to model experimentation, evaluation, and cloud-based deployment.
+
+As a data lover passionate about innovation, I continuously seek opportunities to enhance systems and optimize processes by combining analytical thinking with modern technologies. I thrive in collaborative environments where technical depth, experimentation, and structured problem-solving drive scalable solutions and foster data-driven decision-making across organizations.
+---
+
+🔗LinkedIn Profile: [Pavankumar Umesh Managoli](https://www.linkedin.com/in/pavan-u-managoli/)
+
+---
 ## Programming
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>

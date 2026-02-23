@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>
-  ML Flow
+- MLflow
 </p>
 
 
@@ -45,7 +45,7 @@
 <p>
 <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" width="40" height="40"/>
-Qlik Sense
+- Qlik Sense
 </p>
 
 ##  Web Development
@@ -68,8 +68,8 @@ Qlik Sense
 ## Microsoft Tools
 <p>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Microsoft Excel" width="40" height="40"/>
-Power Automate
 <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" title="Microsoft Office" width="40" height="40"/>
+- Power Automate
 </p>
 
 ## Others

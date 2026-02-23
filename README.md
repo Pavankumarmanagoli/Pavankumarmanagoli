@@ -22,8 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/seaborn.png" title="Seaborn" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/plotly.png" title="Plotly" width="40" height="40"/>
+![Seaborn](https://img.shields.io/badge/Seaborn-DataViz-blue?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge)
+
 </p>
 
 ## Machine Learning & Deep Learning

@@ -22,8 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>
-![Seaborn](https://img.shields.io/badge/Seaborn-DataViz-blue?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge)
+
 
 </p>
 
@@ -32,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" title="MLflow" width="40" height="40"/>
+<img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" title="MLflow" width="70"/>
 </p>
 
 ##  Generative AI
@@ -45,7 +44,7 @@
 <p>
 <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/qlik.png" title="Qlik Sense" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Qlik_Logo.svg" title="Qlik Sense" width="60"/>
 </p>
 
 ##  Web Development
@@ -68,7 +67,7 @@
 ## Microsoft Tools
 <p>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Microsoft Excel" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/power-automate.png" title="Power Automate" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Microsoft_Power_Automate_logo.svg" title="Power Automate" width="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" title="Microsoft Office" width="40" height="40"/>
 </p>
 

@@ -4,15 +4,22 @@
 
 ---
 
-I am a data professional with over 3 years of experience across data analytics, data engineering, and AI-driven solutions. As a Master’s graduate in Applied Data Science & Analytics, I specialize in transforming raw operational data into scalable systems that enable insight-driven decision-making and measurable business impact.
+# 💫 About Me:
+🔭 I build pipelines that don’t complain.<br>👯 I collaborate on systems that outlive their creators.<br>🤝 I’m seeking problems that force better architecture.<br>🌱 I’m learning to design for scale before scale happens.<br>💬 Ask me why data modeling is more important than machine learning in most companies.<br>⚡ I optimize SQL for fun.
 
-My journey began in analytics and reporting, where I developed dashboards and automated workflows to improve operational visibility. Over time, I expanded into data engineering and applied AI, focusing on building scalable ETL pipelines, designing reproducible machine learning workflows, and developing intelligent systems such as Retrieval-Augmented Generation (RAG) architectures. I have worked across the full data lifecycle — from ingestion and transformation to model experimentation, evaluation, and cloud-based deployment.
 
-As a data lover passionate about innovation, I continuously seek opportunities to enhance systems and optimize processes by combining analytical thinking with modern technologies. I thrive in collaborative environments where technical depth, experimentation, and structured problem-solving drive scalable solutions and foster data-driven decision-making across organizations.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-u-managoli/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pumanagoli19@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pavankumarmanagoli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pavankumarmanagoli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumarmanagoli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-🔗LinkedIn Profile: [Pavankumar Umesh Managoli](https://www.linkedin.com/in/pavan-u-managoli/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pavankumarmanagoli&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ## Programming

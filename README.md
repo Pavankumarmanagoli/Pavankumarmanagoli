@@ -1,6 +1,6 @@
 # Pavankumar Umesh Managoli
 
-`Data & AI Enthusiast (Data Engineer | Data Analyst | Data Scientist)`
+`Data & AI Engineer `
 
 ---
 

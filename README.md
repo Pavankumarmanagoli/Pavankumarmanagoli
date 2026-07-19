@@ -123,11 +123,6 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pavankumarmanagoli&show_icons=true&theme=tokyonight&hide_border=true" alt="Pavankumar's GitHub Stats"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumarmanagoli&layout=compact&theme=tokyonight&hide_border=true" alt="Pavankumar's Most Used Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Pavankumarmanagoli&theme=tokyonight&hide_border=true" alt="Pavankumar's GitHub Streak"/>
 </p>
 
@@ -138,14 +133,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pavan-u-managoli/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:pumanagoli19@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://pavankumarmanagoli.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
+
 
 ---
 

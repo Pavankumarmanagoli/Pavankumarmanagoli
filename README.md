@@ -141,7 +141,7 @@
 </a>
 
 <a href="https://pavankumarmanagoli.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 </p>

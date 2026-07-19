@@ -4,11 +4,17 @@
 
 ---
 
-# 💫 About Me:
-🔭 I build pipelines that don’t complain.<br>👯 I collaborate on systems that outlive their creators.<br>🤝 I’m seeking problems that force better architecture.<br>🌱 I’m learning to design for scale before scale happens.<br>💬 Ask me why data modeling is more important than machine learning in most companies.<br>⚡ I optimize SQL for fun.
+# ✨ About Me:
+
+🔭 I like understanding why a problem exists before deciding where AI belongs in the solution.<br>
+🧩 I think in systems: data, models, APIs, users, and everything that can break between them.<br>
+🤝 My work brings together Generative AI, machine learning, automation, data engineering, and analytics.<br>
+🎓 I have explored cross-language speech translation and industrial anomaly detection through academic and applied work.<br>
+💬 I’m usually the person asking, “What happens after the model gives an answer?”<br>
+⚡ Research deeply. Design calmly. Code deliberately.
 
 ---
-### Quote of the Day
+### 💡 Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 # 💻 Tech Stack

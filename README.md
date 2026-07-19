@@ -1,6 +1,6 @@
-## Pavankumar Umesh Managoli
+# Hey, I'm Pavankumar Umesh Managoli 👋
 
-#`Data & AI Engineer `
+# `Data & AI Engineer `
 
 ---
 
@@ -14,7 +14,7 @@
 ⚡ Research deeply. Design calmly. Code deliberately.
 
 ---
-### 💡 Quote of the Day
+# 💡 Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 # 💻 Tech Stack

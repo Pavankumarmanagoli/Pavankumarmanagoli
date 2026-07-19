@@ -7,10 +7,7 @@
 # 💫 About Me:
 🔭 I build pipelines that don’t complain.<br>👯 I collaborate on systems that outlive their creators.<br>🤝 I’m seeking problems that force better architecture.<br>🌱 I’m learning to design for scale before scale happens.<br>💬 Ask me why data modeling is more important than machine learning in most companies.<br>⚡ I optimize SQL for fun.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-u-managoli/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pumanagoli19@gmail.com) 
-
+---
 ### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
@@ -115,3 +112,41 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pavankumarmanagoli&show_icons=true&theme=tokyonight&hide_border=true" alt="Pavankumar's GitHub Stats"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumarmanagoli&layout=compact&theme=tokyonight&hide_border=true" alt="Pavankumar's Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pavankumarmanagoli&theme=tokyonight&hide_border=true" alt="Pavankumar's GitHub Streak"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pavan-u-managoli/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pumanagoli19@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐Thanks for visiting!
+
+*"Let’s collaborate, experiment with bold ideas, and build something useful, innovative, and a little crazy."*
+
+</div>

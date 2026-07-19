@@ -145,7 +145,7 @@
 
 <div align="center">
 
-### ⭐Thanks for visiting!
+### --Thanks for visiting--
 
 *"Let’s collaborate, experiment with bold ideas, and build something useful, innovative, and a little crazy."*
 
